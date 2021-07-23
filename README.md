@@ -1,11 +1,9 @@
-### Hi there! I'm Rashmi Jayamanne👋. I'm currently an undergraduate studying Software Engineering at NSBM Green University Town👩🏻‍🎓. Driven to learn quickly, advance computer proficiency and training in industry operations. Solid background in field and office settings supporting team needs. Flexible and hardworking team player focused on boosting productivity and performance with conscientious and detail-oriented approaches.💯
+###### Hi there! I'm Rashmi Jayamanne👋. I'm currently an undergraduate studying Software Engineering at NSBM Green University Town👩🏻‍🎓. Driven to learn quickly, advance computer proficiency and training in industry operations. Solid background in field and office settings supporting team needs. Flexible and hardworking team player focused on boosting productivity and performance with conscientious and detail-oriented approaches.💯
 
 ![](https://komarev.com/ghpvc/?username=rashmi-jay)
 
 
-![Rashmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashmi-jay&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashmi-jay)](https://github.com/rashmi-jay/github-readme-stats)
+![Rashmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashmi-jay&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashmi-jay)](https://github.com/rashmi-jay/github-readme-stats)
 
 ### Connect with me:
 
