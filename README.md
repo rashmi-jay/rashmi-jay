@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Rashmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashmi-jay&count_private=true)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashmi-jay)](https://github.com/rashmi-jay/github-readme-stats)
 
 
