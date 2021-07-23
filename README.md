@@ -6,8 +6,10 @@
 ![](https://komarev.com/ghpvc/?username=rashmi-jay)
 
 
-![Rashmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashmi-jay&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashmi-jay&layout=compact&theme=tokyonight)](https://github.com/rashmi-jay/github-readme-stats)
+![Rashmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashmi-jay&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashmi-jay&layout=compact&theme=tokyonight)](https://github.com/rashmi-jay/github-readme-stats)
+
+<a href="https://github.com/rashmi-jay/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rashmi Jaymanne's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rashmi-jay&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 
 
 ### Connect with me:
