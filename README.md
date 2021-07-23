@@ -4,7 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashmi-jay)](https://github.com/rashmi-jay/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rashmi-jay&repo=github-readme-stats)](https://github.com/rashmi-jay/github-readme-stats)
 
 
 
