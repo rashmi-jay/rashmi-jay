@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashmi-jy)](https://github.com/rashmi-jay/github-readme-stats)
+
+
 <!--
 **rashmi-jay/rashmi-jay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
